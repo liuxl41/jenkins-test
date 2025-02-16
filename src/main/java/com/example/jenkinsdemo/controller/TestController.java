@@ -9,7 +9,7 @@ public class TestController {
 
     @RequestMapping("/method1")
     public String method1(String s) {
-        return "hello" + s + "v3.0.0";
+        return "hello" + s + "v4.0.0";
     }
 
 }
